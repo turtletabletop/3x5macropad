@@ -43,4 +43,6 @@ time to rewire a lot of stuff
 
 I decided not to go with under keycap LEDS because they'd take too long to figure out how they work and I can't be bothered with a rotary encoder either
 
+ideally: https://milktooth.com/products/milky-pro-silent-linear
+
 
