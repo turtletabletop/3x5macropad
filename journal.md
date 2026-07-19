@@ -9,7 +9,9 @@ hotswappable keys are nice for testing future switches
 - https://jlcpcb.com/partdetail/Kailh-CPG151101S111/C5184526
 - kalih == cherry mx switches standard
 
-silent "creamy" linear switches would be ideal
+### switches/keycap wants for the "first" iteration:
+- silent "creamy" linear switches would be ideal
+- 50 gram force similar to what a midi offers
 
 Order from JLCPCB because they can assemble the PCB with the parts soldered on for me
 
