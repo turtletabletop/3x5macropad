@@ -5,7 +5,8 @@ mainly followed scottokeebs's guide for the most part and was able to:
 
 not finalized yet!
 - made a rudimentary case for the PCB
-<small>does not look good<small>
+
+does not look good
 
 ### design considerations:
 note that I want the keys to be hotswappable now so I need to change the configuration and figure out which mounts are needed
