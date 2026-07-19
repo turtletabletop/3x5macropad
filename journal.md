@@ -11,7 +11,8 @@ hotswappable keys are nice for testing future switches
 
 purple and pink case would be sick
 figure out how to get pcb with traces so that I can tell where the pcb art is gonna be
-<img width="1014" height="638" alt="image" src="https://github.com/user-attachments/assets/d73c331a-9f56-4fc5-bbf8-1585c4cdc7c8" />
+
+<img width="507" height="319" alt="image" src="https://github.com/user-attachments/assets/d73c331a-9f56-4fc5-bbf8-1585c4cdc7c8" />
 
 
 ### switches/keycap wants for the "first" iteration:
