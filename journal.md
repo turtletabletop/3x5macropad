@@ -23,4 +23,9 @@ figure out how to get pcb with traces so that I can tell where the pcb art is go
 
 Order from JLCPCB because they can assemble the PCB with the parts soldered on for me
 
+### things to work on tomorrow: 
+- figure out the full PCB design, finalize it
+- design a good-looking case for the board
+- start looking at qmk
+
 ## Day 2 (July 19, 2026)
