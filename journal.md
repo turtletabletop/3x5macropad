@@ -10,6 +10,7 @@ hotswappable keys are nice for testing future switches
 - kalih == cherry mx switches standard
 
 purple and pink case would be sick
+
 figure out how to get pcb with traces so that I can tell where the pcb art is gonna be
 
 <img width="507" height="319" alt="image" src="https://github.com/user-attachments/assets/d73c331a-9f56-4fc5-bbf8-1585c4cdc7c8" />
