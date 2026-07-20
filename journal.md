@@ -51,4 +51,24 @@ values for later:
 - -6.187494 in x
 - 3.093757 in y
 
+## Day 3 (July 20, 2026)
+i kind of forgot that today was a new day because I was up at 2:00 am today working on this
+
+anyways i'll be modeling my journal entries better hopefully because i found THIS: https://codex.hackclub.com/shipping/example-journal/
+a lot of hack club is buried under niche keyword searches and random findings a lot of the time
+
+
+updates to the pcb:
+- i changed the keycaps to the DSA kit keycaps given in hackpad
+- thats all?
+
+damn i really thought i could be done by today but it's really not the case
+
+
+speaking of cases: that's really what I need to work on today! 
+
+I found out by searching that there are many different ways of mounting your PCB to your case: important link here- https://shop.marvo-tech.com/blogs/all/custom-mechanical-keyboards-parts
+
+here's a tldr for that page-- they have a cheat sheet right here
+<img width="2675" height="2220" alt="image" src="https://github.com/user-attachments/assets/ca11f0e0-80cb-4e55-9d91-ec43415c4e5d" />
 
