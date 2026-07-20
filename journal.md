@@ -51,6 +51,11 @@ values for later:
 - -6.187494 in x
 - 3.093757 in y
 
+## misc links for days 1-2 because i forgot
+- https://github.com/AcheronProject/acheron_MXH.pretty 
+although 
+
+
 ## Day 3 (July 20, 2026)
 i kind of forgot that today was a new day because I was up at 2:00 am today working on this
 
@@ -73,3 +78,4 @@ here's a tldr for that page-- they have a cheat sheet right here
 
 <img width="535" height="444" alt="image" src="https://github.com/user-attachments/assets/ca11f0e0-80cb-4e55-9d91-ec43415c4e5d" />
 
+I've seen the keyword sandwich mount before in the hackpad channel so that's the one I'm going for, also I found this scottokeebs video so i'm definitely going to watch it
