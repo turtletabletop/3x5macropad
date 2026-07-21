@@ -56,6 +56,8 @@ values for later:
 - -6.187494 in x
 - 3.093757 in y
 
+ok, at the end of this day I kind of wasted a bunch of time trying to place a pcb into a board with all the components which was very bad for my time usage because it didn't even end up working
+
 ## misc links for days 1-2 because i forgot
 - https://github.com/AcheronProject/acheron_MXH.pretty 
 
@@ -94,6 +96,7 @@ i found this mounting plate site during my math lecture: https://builder-docs.sw
 
 so like it turns out i don't actually need the screws in the pcb so darn.
 
+i figured out how to put the pcb in onshape that so it actually runs in onshape wahoo
 
 ## Day 4 (July 21, 2026) (~5 hours)
 Hey! so it's my exam day so I don't have a lecture to go to for today which is kind of great because I can do more things and also my violin lesson was moved to another day this week so that's great
