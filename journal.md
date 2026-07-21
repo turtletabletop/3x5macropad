@@ -1,12 +1,17 @@
-## Day 1 (July 18, 2026)
+## Day 1 (July 18, 2026) (~5 hours)
 
 mainly followed scottokeebs's guide for the most part and was able to:
 - assembled the first draft of the PCB for the keyboard
 
+<img width="1350" height="900" alt="image" src="https://github.com/user-attachments/assets/1f0cce75-645a-4bfb-be48-712096c2d512" />
+
+
 not finalized yet!
 - made a rudimentary case for the PCB
 
-does not look good
+<img width="1056" height="689" alt="image" src="https://github.com/user-attachments/assets/7c15d39c-177f-47e4-8f58-014d23e06caf" />
+
+does not look good, also the pcb slows down onshape so much
 
 ### design considerations:
 note that I want the keys to be hotswappable now so I need to change the configuration and figure out which mounts are needed
@@ -34,7 +39,7 @@ Order from JLCPCB because they can assemble the PCB with the parts soldered on f
 - design a good-looking case for the board
 - start looking at qmk
 
-## Day 2 (July 19, 2026)
+## Day 2 (July 19, 2026) (~6 hours)
 decided I should go with the kit parts except for the keycaps (i really want colored keycaps) and kailh sockets
 
 also there will be no pcb assembly from jlcpcb because soldering these things aren't really that hard
@@ -59,7 +64,7 @@ although this does provide the footprint for kailh mx-style sockets, it doesn't 
 Note that for both the website and the scottokeebs library the models need to be manually aligned inside kicad
 
 
-## Day 3 (July 20, 2026)
+## Day 3 (July 20, 2026) (~8 hours)
 i kind of forgot that today was a new day because I was up at 2:00 am today working on this
 
 anyways i'll be modeling my journal entries better hopefully because i found THIS: https://codex.hackclub.com/shipping/example-journal/
@@ -90,7 +95,7 @@ i found this mounting plate site during my math lecture: https://builder-docs.sw
 so like it turns out i don't actually need the screws in the pcb so darn.
 
 
-## Day 4 (July 21, 2026)
+## Day 4 (July 21, 2026) (~5 hours)
 Hey! so it's my exam day so I don't have a lecture to go to for today which is kind of great because I can do more things and also my violin lesson was moved to another day this week so that's great
 
 as of right now, I've been checking the edges of all the parts to make sure that they work well and adjusting them if they don't fit the shape I want
@@ -105,9 +110,6 @@ I also figured out how to make better holes for the screws that I'll be receivin
 
 *added 5 screw holes into the case*
 
-oh wait oops i messed up a bit i need to change it because this hole clips into the pcb and i just realized the holes go slightly into the acrylic which is not good so i'll change the heights of them
-<img width="829" height="982" alt="image" src="https://github.com/user-attachments/assets/e96d47de-d583-4993-be48-c60380384d34" />
-
-*the holes clip into wrong parts f*
+update: removed the screw in the middle of the case because it collided with the pcb 
 
 
