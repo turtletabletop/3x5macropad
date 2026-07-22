@@ -126,3 +126,10 @@ and also i added a usb-c cutout!
 <img width="1153" height="900" alt="image" src="https://github.com/user-attachments/assets/d52dde07-2133-4c1d-a1a5-46ef2fbb2ec9" />
 
 also i added more decals to my board!
+
+## day 5 (July 22, 2026) (~45 min)
+I have no idea what i'm doing but i was able to get qmk setup with a lot of patience and waiting for files to load, and now i have a rudimentary firmware to push
+
+<img width="954" height="1184" alt="image" src="https://github.com/user-attachments/assets/083f4c6a-f5c2-4fce-b1a3-da9ed8bd3fb3" />
+<img width="838" height="1238" alt="image" src="https://github.com/user-attachments/assets/47c5a925-b59a-4467-a50a-930025f5b618" />
+
