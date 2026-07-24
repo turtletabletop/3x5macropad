@@ -13,7 +13,7 @@ This macropad is a custom-built 3x5 ortholinear keyboard with an OLED display. I
 ## CAD + Case
 [Onshape link](https://cad.onshape.com/documents/501449d828c00fab2d0b549b/w/615af9d6281a356a4f3616d7/e/420bb48ea47a66a72aa17e60?renderMode=0&uiState=6a62d55ca501a73d441c5f80):
 
-<img width="1564" height="1168" alt="image" src="https://github.com/user-attachments/assets/c6a93661-fac4-4686-8548-5de203c0f75b" />
+<img width="782" height="584" alt="image" src="https://github.com/user-attachments/assets/c6a93661-fac4-4686-8548-5de203c0f75b" />
 
 I used Onshape for the CAD because I have previously used Onshape for FRC, and I thought Fusion360 was for nerds + online link sharing is fun!
 
