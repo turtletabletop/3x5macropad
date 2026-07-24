@@ -42,6 +42,11 @@ dunno what to say here honestly just copied skottokeeb's guide for the most part
 - 128x32 OLED Screen
 
 ### Bill of Materials (BOM):
-
+- 15x Cherry MX Switches
+- 15x DSA Keycaps
+- 1x Seeed Studio XIAO RP2040
+- 4x M3x16mm SHCS Bolts
+- 4x M3x5x4 Heatset inserts
+- 1x 0.91" 128x32 OLED Display
 
     A screenshot of your case and how it'll fit together
