@@ -9,6 +9,7 @@ This macropad is a custom-built 3x5 ortholinear hot-swappable keyboard built off
 - 128x32 OLED screen
 - rad pcb silkscreen art
 - QMK firmware
+- a 3-degree tilt for more comfortable access to all the keys
 
 ## CAD + Case
 ### [Onshape link:](https://cad.onshape.com/documents/501449d828c00fab2d0b549b/w/615af9d6281a356a4f3616d7/e/420bb48ea47a66a72aa17e60?renderMode=0&uiState=6a62d55ca501a73d441c5f80)
