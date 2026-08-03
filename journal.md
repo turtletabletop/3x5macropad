@@ -153,6 +153,10 @@ i also added graphics to the back that nobody will see! yippee
 
 tooooday's shipping day! I have 90% of the stuff ready i just need to upload everything onto this github and submit the form. Currently i've just been working through tiny issues here and there that i can see are problems
 
-omg the case looks nice (as expected :)))) )
+the case looks nice (as expected :)))) )
 <img width="1564" height="1169" alt="image" src="https://github.com/user-attachments/assets/a2370495-76f3-44d9-b23c-47d055f3099f" />
 
+## day 7 (August 2nd, 2026) (15 mins)
+hopefully the final update. I noticed that some of the tolerances of the case were off and decided to adjust the geometry so that there was >=0.2mm gap between the PCB and the case. I only adjusted the mounting plate and didn't touch anything else.
+
+<img width="636.5" height="494" alt="image" src="https://github.com/user-attachments/assets/321a5588-6cfc-4640-9977-e4a7bb2fc0fa" />
