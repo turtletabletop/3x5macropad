@@ -12,7 +12,7 @@ This macropad is a custom-built 3x5 ortholinear hot-swappable keyboard built off
 - a 3-degree tilt for more comfortable access to all the keys
 
 ## CAD + Case
-### [Onshape link:](https://cad.onshape.com/documents/501449d828c00fab2d0b549b/w/615af9d6281a356a4f3616d7/e/420bb48ea47a66a72aa17e60?renderMode=0&uiState=6a62d55ca501a73d441c5f80)
+### [Onshape link: <--- GO CLICK THIS!!!! It's a link to my CAD you can see online without downloading!!!](https://cad.onshape.com/documents/501449d828c00fab2d0b549b/w/615af9d6281a356a4f3616d7/e/420bb48ea47a66a72aa17e60?renderMode=0&uiState=6a62d55ca501a73d441c5f80)
 
 <img width="782" height="584" alt="image" src="https://github.com/user-attachments/assets/c6a93661-fac4-4686-8548-5de203c0f75b" />
 
